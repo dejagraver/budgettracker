@@ -47,6 +47,7 @@ function uploadTransaction() {
 
                 const transaction = db.transaction(['Transaction'], 'readwrite');
                 const transactionObjectStore = transaction.objectStore('Transaction');
+
                 transactionObjectStore.clear();
             })
             .catch(err => console.log(err));
