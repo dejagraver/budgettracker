@@ -20,8 +20,11 @@ THEN the deposits or expenses added while they were offline are added to their t
  <br />
 
 <a name="Installation">#Installation</a>
-None required, application can be used through the link https://desolate-depths-21065.herokuapp.com
+None required, application can be used through the link https://deja-budget-tracker.herokuapp.com
+
 **Optional**
+
+
 1. Clone code from https://github.com/dejagraver/budgettracker
 2. In main folder of code, run "npm install" 
     <br />
@@ -29,7 +32,8 @@ None required, application can be used through the link https://desolate-depths-
 
 
  <a name="Links">#Links</a>
-https://desolate-depths-21065.herokuapp.com
+https://deja-budget-tracker.herokuapp.com
+
 https://github.com/dejagraver/budgettracker
 
   <br />
