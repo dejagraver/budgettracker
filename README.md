@@ -10,6 +10,7 @@
   <br />
 
 <a name="Description">#Description</a>
+
 GIVEN a budget tracker without an internet connection
 WHEN the user inputs an expense or deposit
 THEN they will receive a notification that they have added an expense or deposit
@@ -24,6 +25,7 @@ None required, application can be used through the link https://desolate-depths-
 1. Clone code from https://github.com/dejagraver/budgettracker
 2. In main folder of code, run "npm install" 
     <br />
+
 
 
  <a name="Links">#Links</a>
