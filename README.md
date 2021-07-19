@@ -38,9 +38,10 @@ https://github.com/dejagraver/budgettracker
 
   <br />
 
-
   #Questions <br />
   Contact the owner of the Repository for additional questions through:
+  
+![image](https://user-images.githubusercontent.com/78667882/126180286-c34ff078-174f-4962-8bf8-5bfb0ad4d7db.png)
 
 * Email: dejaamaartin@gmail.com
 
